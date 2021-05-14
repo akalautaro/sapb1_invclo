@@ -1,0 +1,5 @@
+INFO:root:Busca facturas para fecha 2021-04-29
+INFO:root:Busca facturas para fecha 2021-04-29
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): susesap.sweetsa.com.ar:50000
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (2): susesap.sweetsa.com.ar:50000
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (3): susesap.sweetsa.com.ar:50000
