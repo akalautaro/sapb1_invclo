@@ -15,11 +15,11 @@ Ya estoy trabajando en la próxima versión, la cual permite:
 
 ## Comenzando 🚀
 
-_Las siguientes instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+_Las siguientes instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Pre-requisitos 📋
 
-_Para que este script funcione vas a necesitar de:
+_Para que este script funcione vas a necesitar de:_
 
 * [SAP Business One](https://www.sap.com/latinamerica/products/business-one.html) - Hace las consultas a la base de datos SAP Hana para traer las facturas en estado 'abierto' 
 #### Recomendado
