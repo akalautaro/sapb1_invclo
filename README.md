@@ -21,8 +21,7 @@ _Las siguientes instrucciones te permitirán obtener una copia del proyecto en f
 
 _Para que este script funcione vas a necesitar de:
 
-* [SAP Business One](https://www.sap.com/latinamerica/products/business-one.html) - Es de donde saldrán los informes con los que se generará el archivo
-* [HanaDB Client](https://www.sap.com/latinamerica/products/hana.html) - Cliente/tecnología de la base de datos.
+* [SAP Business One](https://www.sap.com/latinamerica/products/business-one.html) - Hace las consultas a la base de datos SAP Hana para traer las facturas en estado 'abierto' 
 #### Recomendado
 * [Gestor de base de datos](http://squirrel-sql.sourceforge.net/) - En mi caso utilicé SquirrelSQL
 
